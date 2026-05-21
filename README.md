@@ -78,4 +78,4 @@ The controller successfully reduces tumor size and stabilizes it near the desire
 ---
 
 ## Author
-Sedra Ozturk
+Sidra ÖZTÜRK
